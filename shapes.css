@@ -1,0 +1,11 @@
+<div id="body">
+  <div class="top"></div>
+  <div class='lens'></div>
+</div>
+
+#body {
+  background-color:black;
+  height:300px;
+  width:500px;
+  position:absolute;
+  }
