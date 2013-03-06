@@ -72,13 +72,15 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 #site-head {
+   	margin:0 auto;
+   	left:50px;
 	
 	}
 
 #site-wrapper {
 	margin:0 auto;
 	width:960px;
-	background-color:gray;
+	padding-top:2em;
 	}
 
 
@@ -91,9 +93,21 @@ html[xmlns] .clearfix { display: block; }
          url('fonts/Calluna-Regular-webfont.svg#CallunaRegular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'CallunaSansRegular';
+    src: url('fonts/CallunaSansRegular-webfont.eot');
+    src: url('fonts/CallunaSansRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/CallunaSansRegular-webfont.woff') format('woff'),
+         url('fonts/CallunaSansRegular-webfont.ttf') format('truetype'),
+         url('fonts/CallunaSansRegular-webfont.svg#CallunaSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
-html { 
+}
+
+body#index { 
   background: url('images/barrel_sepia.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -101,22 +115,249 @@ html {
   background-size: cover;
 }
 
-#info p {
-  font-size:.9em;
-  line-height:1.4em;
-  column-count: 2;
+body#vs { 
+  background: url('images/JimmyHennessey_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#how { 
+  background: url('images/abandoneddistillery_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step1 { 
+  background: url('images/wolfburnwhiskeybarrel_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step2 { 
+  background: url('images/barrels_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step3 { 
+  background: url('images/highlandparkbarrels_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step4 { 
+  background: url('images/wolfburnwhiskeyrun_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step5 { 
+  background: url('images/turkeybourbonracks_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step6 { 
+  background: url('images/makersmarkdistillery_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#step7 { 
+  background: url('images/rockingchairs_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#site-head { 
+	position:relative; 
+	height:200px;
+	padding-bottom:3em;
+	}
+
+#site-head .whatisit img{
+ margin:0 auto;
+ position:absolute;
+ padding-left:50px;
  }
  
- footer-wrapper {
+#site-head.vs img{
+ margin:0 auto;
+ position:absolute;
+ padding-top:5em;
+ }
+ 
+#site-head.how img{
+ margin:0 auto;
+ position:absolute;
+ }
+ 
+#site-head.1 img{
+ position:absolute;
+ }
+ 
+#site-head.2 img{
+ position:absolute;
+ }
+ 
+#site-head.3 img{
+ position:absolute;
+ }
+ 
+#whiskey {
+  position:relative;
+  }
+ 
+#whiskey h1 {
+  font-family: 'CallunaSansRegular';
+  color:white;
+  font-size:2.5em;
+  }
+  
+#whiskey h2 {
+  font-family: 'CallunaSansRegular';
+  color:white;
+  font-size:1.1em;
+  line-height:1.5em;
+  }
+
+#definition {
+  position:relative;
+  padding-top:1em;
+  padding-bottom:1.5em;
+  }
+
+#definition h1 {
+ font-size:1.3em;
+ padding-top:1em;
+ color:white;  
+ }
+ 
+#definition p {
+ font-size:1.5em;
+ line-height:1.6em;
+ }
+
+body p {
+  font-family: 'CallunaRegular';
+  font-size:1em;
+  line-height:1.4em;
+  column-count: 2;
+  color:white;
+ }
+ 
+a {
+	text-decoration:none;
+	font-style:normal;
+	color:white;
+	}
+
+#info {
+  position:relative;
+  padding-bottom:6em;
+  }
+  
+#explained {
+  position:relative;
+  padding-bottom:6em;
+  padding-top:10em;
+  }
+  
+#list {
+  position:relative;
+  margin:0 auto;
+  padding-left:20%;
+  top:-7.5em;
+  }
+  
+#fermentation {
+ position:relative;
+ padding-top:13em;
+ }
+ 
+#malting {
+ position:relative;
+ padding-top:13em;
+ }
+ 
+ #distillation {
+ position:relative;
+ padding-top:13em;
+ }
+ 
+#maturation {
+ position:relative;
+ padding-top:12em;
+ }
+ 
+#blending {
+ position:relative;
+ padding-top:13em;
+ }
+ 
+#bottling {
+ position:relative;
+ padding-top:14em;
+ }
+ 
+#column1 p {
+  padding-bottom:3em;
+  padding-right:1.5em;
+  float:left;
+  width:450px;
+  display:block;
+  }
+  
+#column2 p {
+  float:left;
+  width:450px;
+  display:block;
+  }
+
+ 
+#footer-wrapper {
 	height:7em;
 	position:fixed;
-	padding-top:9em;
 	bottom:0;
-	clear:both;
-	background-color:gray;
+	padding-top:8em;
 }
 
 #site-footer {
-	clear:both;
-	background-color:gray;
+    clear:both;
+    position:fixed;
+	bottom:0;
+	padding-left:25%;
+	width:960px;
+	padding-top:2em;
+	padding-bottom:2em;
 }
+
+#site-footer ul li{
+    position:relative;
+    margin:0 auto;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	float:left;
+	display:inline-block;
+	padding-right:2em;
+
+	}
