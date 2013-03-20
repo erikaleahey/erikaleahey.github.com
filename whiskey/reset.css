@@ -190,7 +190,8 @@ body#step7 {
 #site-head { 
 	position:relative; 
 	height:200px;
-	padding-bottom:3em;
+	padding-bottom:-2em;
+    padding-left:0px;
 	}
 
 #site-head .whatisit img{
@@ -220,7 +221,14 @@ body#step7 {
  
 #site-head.3 img{
  position:absolute;
+ padding-bottom:-.5em;
  }
+ 
+#site-head.4 img{
+ position:absolute;
+ padding-bottom:-.5em;
+ }
+ 
  
 #whiskey {
   position:relative;
@@ -290,22 +298,67 @@ a {
   
 #fermentation {
  position:relative;
- padding-top:13em;
+ padding-top:1em;
+ }
+ 
+#ferm img{
+ position:relative;
+ width:500px;
+ padding-left:200px;
+ padding-top:-.5em;
  }
  
 #malting {
  position:relative;
- padding-top:13em;
+ padding-top:16em;
+ padding-left:0;
+ }
+ 
+ 
+#truck img{
+ position:relative;
+ float:left;
+ width:300px;
+ padding-top:100px;
+} 
+
+#silo1 img{
+ position:relative;
+ float:left;
+ width:200px;
+ padding-left:250px;
+
+ }
+ 
+ #silo2 img{
+ position:relative;
+ float:left;
+ width:200px;
+ 
  }
  
  #distillation {
  position:relative;
- padding-top:13em;
+ padding-top:20em;
  }
+ 
+#dist img{
+ position:absolute;
+ height:425px;
+ top:125px;
+ left:400px;
+ }
+ 
  
 #maturation {
  position:relative;
- padding-top:12em;
+ padding-top:1em;
+ }
+ 
+#mature img {
+ position:relative;
+ width:500px;
+ left:200px;
  }
  
 #blending {
@@ -315,8 +368,14 @@ a {
  
 #bottling {
  position:relative;
- padding-top:14em;
+ padding-top:2em;
  }
+ 
+#bottles img{
+  position:relative;
+  width:600px;
+  left:200px; 
+  }
  
 #column1 p {
   padding-bottom:3em;
