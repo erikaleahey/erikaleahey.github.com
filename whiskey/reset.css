@@ -337,6 +337,19 @@ a {
  
  }
  
+ #mashing {
+ position:relative;
+ top:-6em;
+ }
+ 
+ #mash img{
+ position:relative;
+ width:700px;
+ padding-left:150px;
+ top:-60px;
+}
+ 
+ 
  #distillation {
  position:relative;
  padding-top:20em;
@@ -363,8 +376,14 @@ a {
  
 #blending {
  position:relative;
- padding-top:13em;
- }
+ padding-top:1em;
+ } 
+ 
+ #blend img{
+ position:relative;
+ width:600px;
+ padding-left:200px;
+}
  
 #bottling {
  position:relative;
