@@ -346,7 +346,7 @@ cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
 body p {
   font-family: 'Noto Serif', serif;
   font-size:.9em;
-  line-height:1.55em;
+  line-height:1.4em;
   column-count: 2;
   color:white;
  }
