@@ -99,7 +99,7 @@ html[xmlns] .clearfix { display: block; }
 
 body{
     background:#000;
-    font-family:'CallunaRegular';
+    font-family:'Noto Serif', serif;
     font-size:1em;
     line-height:1.4em;
     column-count: 2;
@@ -344,9 +344,9 @@ cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
  }
 
 body p {
-  font-family: 'CallunaRegular';
-  font-size:1em;
-  line-height:1.4em;
+  font-family: 'Noto Serif', serif;
+  font-size:.9em;
+  line-height:1.55em;
   column-count: 2;
   color:white;
  }
@@ -513,7 +513,6 @@ a {
 	}
 	
 #section3 ul li{
-    margin:0 auto;
     position:relative;
     float:left;
 	display:inline-block;
@@ -521,7 +520,7 @@ a {
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:19.5em;
+	padding-top:19em;
 	left:-700px;
 	}
 
