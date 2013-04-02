@@ -1,0 +1,630 @@
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
+
+
+
+@font-face {
+    font-family: 'CallunaRegular';
+    src: url('fonts/Calluna-Regular-webfont.eot');
+    src: url('fonts/Calluna-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Calluna-Regular-webfont.woff') format('woff'),
+         url('fonts/Calluna-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Calluna-Regular-webfont.svg#CallunaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CallunaSansRegular';
+    src: url('fonts/CallunaSansRegular-webfont.eot');
+    src: url('fonts/CallunaSansRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/CallunaSansRegular-webfont.woff') format('woff'),
+         url('fonts/CallunaSansRegular-webfont.ttf') format('truetype'),
+         url('fonts/CallunaSansRegular-webfont.svg#CallunaSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background:#000;
+    font-family:'CallunaRegular';
+    font-size:1em;
+    line-height:1.4em;
+    column-count: 2;
+    color:white;
+    width:16500px;
+    position:absolute;
+    top:0px;
+    left:0px;
+    bottom:0px;
+}
+
+body
+{
+cursor:url('images/cursor.png'),url(myBall.cur),auto;
+}
+
+#section1
+{
+cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+}
+
+#section11
+{
+cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+}
+
+.section{
+    margin:0px;
+    bottom:0px;
+    width:1500px;
+    float:left;
+    height:100%;
+}
+
+.section p{
+    margin:20px 0px 0px 50px;
+    width:800px;
+}
+
+#section1 {
+  background: url('images/bottlesshelf.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#section2{
+    background: url('images/barrel_sepia.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section3{
+    background: url('images/JimmyHennessey_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section4{
+    background: url('images/abandoneddistillery_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section5{
+    background: url('images/wolfburnwhiskeybarrel_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section6{
+    background: url('images/barrels_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section7{
+    background: url('images/highlandparkbarrels_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section8{
+    background: url('images/wolfburnwhiskeyrun_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section9{
+    background: url('images/turkeybourbonracks_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section10{
+    background: url('images/makersmarkdistillery_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#section11{
+    background: url('images/rockingchairs_sepia.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+#section1 img{
+ display:block;
+ margin:0 auto;
+ position:absolute;
+ left:150px;
+ width:1100px;
+ }
+
+#section2 img{
+ display:block;
+ margin:0 auto;
+ position:relative;
+ top:10px;
+ left:-50px;
+ }
+ 
+#section3 img{
+ display:block;
+ margin:0 auto;
+ position:relative;
+ top:20px;
+ left:-50px;
+ }
+ 
+#section4 img{
+ display:block;
+ margin:0 auto;
+ position:relative;
+ top:20px;
+ left:-50px;
+ }
+ 
+#section5 img{
+ position:relative;
+ top:20px;
+ left:150px;
+ }
+ 
+#section6 img{
+ position:relative;
+ top:20px;
+ left:200px;
+ }
+ 
+#section7 img{
+ position:relative;
+ top:20px;
+ left:200px;
+ padding-bottom:-.5em;
+ }
+ 
+#section8 img{
+ position:relative;
+ top:20px;
+ left:180px;
+ padding-bottom:-.5em;
+ }
+ 
+ #section9 img{
+ position:relative;
+ top:20px;
+ left:200px;
+ padding-bottom:-.5em;
+ }
+ 
+ #section10 img{
+ position:relative;
+ top:20px;
+ left:200px;
+ padding-bottom:-.5em;
+ }
+ 
+ #section11 img{
+ position:relative;
+ top:20px;
+ left:150px;
+ padding-bottom:-.5em;
+ }
+ 
+
+ 
+.whiskey h1 {
+  font-family: 'CallunaSansRegular';
+  color:white;
+  font-size:2.5em;
+  padding-left:150px;
+  padding-top:2em;
+  }
+  
+.whiskey h2 {
+  font-family: 'CallunaSansRegular';
+  color:white;
+  font-size:1.1em;
+  line-height:1.5em;
+  padding-left:150px;
+  }
+
+.definition {
+  display:block;
+  margin:0 auto;
+  padding-left:150px;
+  }
+
+.definition h1 {
+ font-size:1.3em;
+ padding-top:1em;
+ color:white;  
+ }
+ 
+.definition p {
+ font-size:1.5em;
+ line-height:1.6em;
+ }
+
+body p {
+  font-family: 'CallunaRegular';
+  font-size:1em;
+  line-height:1.4em;
+  column-count: 2;
+  color:white;
+ }
+ 
+a {
+	text-decoration:none;
+	font-style:normal;
+	color:white;
+	}
+
+.info {
+  position:relative;
+  padding-bottom:6em;
+  left:150px;
+  top:2em;
+  }
+  
+.explained {
+  position:relative;
+  padding-top:20em;
+  padding-left:150px;
+  }
+  
+#list {
+  position:relative;
+  display:block;
+  margin:0 auto;
+  top:30px;
+  }
+  
+.fermentation {
+ position:relative;
+ padding-top:2.5em;
+ left:150px;
+ }
+ 
+ .ferm img{
+ position:relative;
+ padding-left:280px;
+ position:relative;
+ width:500px;
+
+ }
+ 
+.malting {
+ position:relative;
+ padding-top:22em;
+ left:150px;
+ }
+ 
+ 
+.truck img{
+ position:relative;
+ float:left;
+ width:300px;
+ padding-top:100px;
+} 
+
+.silo1 img{
+ position:relative;
+ float:left;
+ width:200px;
+ padding-left:250px;
+
+ }
+ 
+ .silo2 img{
+ position:relative;
+ float:left;
+ width:200px;
+ 
+ }
+ 
+ .mashing {
+ position:relative;
+ left:150px;
+ top:-3.5em;
+ }
+ 
+ #section6 .mash img{
+ position:relative;
+ width:700px;
+ left:400px;
+}
+ 
+ 
+ .distillation {
+ position:relative;
+ padding-top:-6em;
+ left:150px;
+ }
+ 
+.dist img{
+ position:relative;
+ height:400px;
+ top:5em;
+ padding-left:22em;
+ }
+ 
+ 
+.maturation {
+ position:relative;
+ padding-top:5em;
+ left:150px;
+ }
+ 
+.mature img {
+ position:relative;
+ width:500px;
+ padding-left:300px;
+ }
+ 
+.blending {
+ position:relative;
+ padding-top:3.5em;
+ left:150px;
+ } 
+ 
+ .blend img{
+ position:relative;
+ width:600px;
+ padding-left:200px;
+}
+ 
+.bottling {
+ position:relative;
+ padding-top:5em;
+ left:100px;
+ }
+ 
+.bottles img{
+  position:relative;
+  width:600px;
+  padding-left:250px; 
+  }
+ 
+#column1 p {
+  padding-bottom:3em;
+  padding-right:1.5em;
+  float:left;
+  width:450px;
+  display:block;
+  }
+  
+#column2 p {
+  float:left;
+  width:450px;
+  display:block;
+  }
+
+ 
+
+#section2 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:15em;
+	left:-500px;
+	}
+	
+#section3 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:19.5em;
+	left:-700px;
+	}
+
+#section4 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:3.5em;
+	left:500px;
+	}
+	
+#section5 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:19em;
+	left:-650px;
+	}
+	
+#section6 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:18.5em;
+	left:-150px;
+	}
+	
+#section7 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+    top:18em;
+	left:-600px;
+	}
+	
+#section8 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:16em;
+	left:-700px;
+	}
+	
+#section9 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:18em;
+	left:-650px;
+	}
+	
+#section10 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:17em;
+	left:-150px;
+	}
+	
+#section11 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:16em;
+	left:-100px;
+	}
