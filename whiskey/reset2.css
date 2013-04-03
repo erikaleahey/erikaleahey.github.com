@@ -294,16 +294,16 @@ body{
 #section2 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:100%;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
-  top:-500px;
+  top:-700px;
   }
   
 #section2 .right a {
    cursor:url('images/cursorright.png'),url(myBall.cur),auto;
    position:absolute;
-    width:100%;
+    width:250px;
     height:100%;
     top:0;
     left:0;
@@ -313,8 +313,8 @@ body{
 #section3 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-500px;
   }
@@ -332,8 +332,8 @@ body{
 #section4 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-500px;
   }
@@ -351,8 +351,8 @@ body{
 #section5 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-1000px;
   }
@@ -370,8 +370,8 @@ body{
 #section6 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-500px;
   }
@@ -389,8 +389,8 @@ body{
 #section7 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-1000px;
   }
@@ -408,8 +408,8 @@ body{
 #section8 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-1000px;
   }
@@ -427,8 +427,8 @@ body{
 #section9 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-1000px;
   }
@@ -446,8 +446,8 @@ body{
 #section10 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-500px;
   }
@@ -465,8 +465,8 @@ body{
 #section11 .right {
   position:relative;
   height:100%;
-  width:150px;
-  left:1350px;
+  width:250px;
+  left:1250px;
   cursor:url('images/cursorright.png'),auto;
   top:-500px;
   }
@@ -484,7 +484,7 @@ body{
 .section{
     margin:0px;
     bottom:0px;
-    width:1500px;
+    width:1472px;
     float:left;
     height:100%;
 }
@@ -613,30 +613,31 @@ body{
  margin:0 auto;
  position:relative;
  top:20px;
- left:-50px;
+ left:-100px;
  }
  
 #section5 img{
  position:relative;
  top:20px;
+ left:50px;
  }
  
 #section6 img{
  position:relative;
  top:20px;
- left:50px;
+ left:80px;
  }
  
 #section7 img{
  position:relative;
- top:20px;
- left:50px;
+ top:30px;
+ left:80px;
  padding-bottom:-.5em;
  }
  
 #section8 img{
  position:relative;
- top:20px;
+ top:30px;
  left:50px;
  padding-bottom:-.5em;
  }
@@ -644,21 +645,21 @@ body{
  #section9 img{
  position:relative;
  top:20px;
- left:50px;
+ left:80px;
  padding-bottom:-.5em;
  }
  
  #section10 img{
  position:relative;
  top:20px;
- left:50px;
+ left:70px;
  padding-bottom:-.5em;
  }
  
  #section11 img{
  position:relative;
- top:20px;
- left:50px;
+ top:30px;
+ left:80px;
  padding-bottom:-.5em;
  }
  
@@ -725,7 +726,8 @@ a {
 .explained {
   position:relative;
   padding-top:20em;
-  padding-left:50px;
+  left:50px;
+
   }
   
 #list {
@@ -733,6 +735,8 @@ a {
   display:block;
   margin:0 auto;
   top:30px;
+  width:700px;
+  left:100px;
   }
   
 .fermentation {
@@ -743,7 +747,7 @@ a {
  
  .ferm img{
  position:relative;
- padding-left:280px;
+ padding-left:290px;
  position:relative;
  width:500px;
 
@@ -752,7 +756,7 @@ a {
 .malting {
  position:relative;
  padding-top:22em;
- padding-left:0px;
+ left:50px;
  }
  
  
@@ -761,7 +765,7 @@ a {
  float:left;
  width:300px;
  padding-top:100px;
- padding-left:40px;
+ left:70px;
 } 
 
 .silo1 img{
@@ -781,14 +785,14 @@ a {
  
  .mashing {
  position:relative;
- left:50px;
  top:-3.5em;
+ left:50px;
  }
  
  #section6 .mash img{
  position:relative;
  width:700px;
- left:200px;
+ left:250px;
 }
  
  
@@ -890,7 +894,7 @@ a {
 
 #section4 .nav{
     position:relative;
-    left:375px;
+    left:325px;
     top:2em;
     }
 
