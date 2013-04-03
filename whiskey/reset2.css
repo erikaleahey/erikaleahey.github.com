@@ -111,20 +111,375 @@ body{
     bottom:0px;
 }
 
-body
-{
-cursor:url('images/cursor.png'),url(myBall.cur),auto;
-}
 
-#section1
-{
-cursor:url('images/cursorright.png'),url(myBall.cur),auto;
-}
 
-#section11
-{
-cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
-}
+#section2 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section2 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section3 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+
+#section3 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section4 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section4 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section5 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section5 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section6 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section6 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section7 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section7 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section8 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+
+#section8 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section9 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section9 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section10 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+  
+#section10 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section11 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+
+#section1  {
+  cursor:url('images/cursorright.png'),auto;
+  }
+
+#section1  a{
+  cursor:url('images/cursorright.png'),auto;
+  }
+
+#section2 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+  
+#section2 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section3 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+  
+#section3 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section4 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+  
+#section4 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section5 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-1000px;
+  }
+  
+#section5 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section6 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+  
+#section6 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+
+#section7 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-1000px;
+  }
+  
+#section7 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section8 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-1000px;
+  }
+  
+#section8 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section9 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-1000px;
+  }
+  
+#section9 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section10 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+  
+#section10 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
+  
+#section11 .right {
+  position:relative;
+  height:100%;
+  width:150px;
+  left:1350px;
+  cursor:url('images/cursorright.png'),auto;
+  top:-500px;
+  }
+
+#section11 .right a {
+   cursor:url('images/cursorright.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
 
 .section{
     margin:0px;
@@ -264,53 +619,53 @@ cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
 #section5 img{
  position:relative;
  top:20px;
- left:150px;
  }
  
 #section6 img{
  position:relative;
  top:20px;
- left:200px;
+ left:50px;
  }
  
 #section7 img{
  position:relative;
  top:20px;
- left:200px;
+ left:50px;
  padding-bottom:-.5em;
  }
  
 #section8 img{
  position:relative;
  top:20px;
- left:180px;
+ left:50px;
  padding-bottom:-.5em;
  }
  
  #section9 img{
  position:relative;
  top:20px;
- left:200px;
+ left:50px;
  padding-bottom:-.5em;
  }
  
  #section10 img{
  position:relative;
  top:20px;
- left:200px;
+ left:50px;
  padding-bottom:-.5em;
  }
  
  #section11 img{
  position:relative;
  top:20px;
- left:150px;
+ left:50px;
  padding-bottom:-.5em;
  }
  
 
  
 .whiskey h1 {
+  position:relative;
   font-family: 'CallunaSansRegular';
   color:white;
   font-size:2.5em;
@@ -323,24 +678,28 @@ cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
   color:white;
   font-size:1.1em;
   line-height:1.5em;
-  padding-left:150px;
+  left:150px;
+  
   }
 
 .definition {
   display:block;
   margin:0 auto;
   padding-left:150px;
+  left:50px;
   }
 
 .definition h1 {
  font-size:1.3em;
  padding-top:1em;
- color:white;  
+ color:white;
+ left:50px;
  }
  
 .definition p {
  font-size:1.3em;
  line-height:1.6em;
+ left:50px;
  }
 
 body p {
@@ -359,15 +718,14 @@ a {
 
 .info {
   position:relative;
-  padding-bottom:6em;
-  left:150px;
+  left:50px;
   top:2em;
   }
   
 .explained {
   position:relative;
   padding-top:20em;
-  padding-left:150px;
+  padding-left:50px;
   }
   
 #list {
@@ -380,7 +738,7 @@ a {
 .fermentation {
  position:relative;
  padding-top:2.5em;
- left:150px;
+ left:50px;
  }
  
  .ferm img{
@@ -394,7 +752,7 @@ a {
 .malting {
  position:relative;
  padding-top:22em;
- left:150px;
+ padding-left:0px;
  }
  
  
@@ -403,13 +761,14 @@ a {
  float:left;
  width:300px;
  padding-top:100px;
+ padding-left:40px;
 } 
 
 .silo1 img{
  position:relative;
  float:left;
  width:200px;
- padding-left:250px;
+ padding-left:300px;
 
  }
  
@@ -422,21 +781,21 @@ a {
  
  .mashing {
  position:relative;
- left:150px;
+ left:50px;
  top:-3.5em;
  }
  
  #section6 .mash img{
  position:relative;
  width:700px;
- left:400px;
+ left:200px;
 }
  
  
  .distillation {
  position:relative;
  padding-top:-6em;
- left:150px;
+ left:50px;
  }
  
 .dist img{
@@ -450,7 +809,7 @@ a {
 .maturation {
  position:relative;
  padding-top:5em;
- left:150px;
+ left:50px;
  }
  
 .mature img {
@@ -462,7 +821,7 @@ a {
 .blending {
  position:relative;
  padding-top:3.5em;
- left:150px;
+ left:50px;
  } 
  
  .blend img{
@@ -474,7 +833,7 @@ a {
 .bottling {
  position:relative;
  padding-top:5em;
- left:100px;
+ left:50px;
  }
  
 .bottles img{
@@ -484,7 +843,6 @@ a {
   }
  
 #column1 p {
-  padding-bottom:3em;
   padding-right:1.5em;
   float:left;
   width:450px;
@@ -495,62 +853,70 @@ a {
   float:left;
   width:450px;
   display:block;
+  padding-right:300px;
+  padding-bottom:10em;
   }
 
- 
-
-#section2 ul li{
-    margin:0 auto;
+#section2 .nav{
     position:relative;
-    float:left;
-	display:inline-block;
+    left:300px;
+    
+}
+
+#section2 .info ul li{
+    display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:15em;
-	left:-500px;
-	height:2.5em;
+	white-space: nowrap;
+	top:20em;
 	}
+
+#section3 .nav{
+    position:relative;
+    top:-3em;
+    left:400px;
+    }
 	
 #section3 ul li{
-    position:relative;
-    float:left;
-	display:inline-block;
+	float:left;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:19em;
-	left:-700px;
 	height:2.5em;
 	}
 
-#section4 ul li{
-    margin:0 auto;
+#section4 .nav{
     position:relative;
-    float:left;
+    left:375px;
+    top:2em;
+    }
+
+#section4 ul li{
 	display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
 	padding-top:3.5em;
-	left:500px;
 	height:2.5em;
 	}
 	
-#section5 ul li{
-    margin:0 auto;
+#section5 .nav{
     position:relative;
-    float:left;
+    left:400px;
+    top:-17em;
+    }	
+	
+#section5 ul li{
 	display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
 	padding-top:19em;
-	left:-650px;
 	height:2.5em;
 	}
 	
@@ -563,50 +929,56 @@ a {
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:18.5em;
+	padding-top:21em;
 	left:-150px;
 	height:2.5em;
 	}
 	
-#section7 ul li{
-    margin:0 auto;
+#section7 .nav{
     position:relative;
-    float:left;
+    left:400px;
+    top:-1em;
+    }	
+	
+#section7 ul li{
 	display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
     top:18em;
-	left:-600px;
 	height:2.5em;
 	}
+
+#section8 .nav{
+    position:relative;
+    left:300px;
+    top:-13em;
+    }	
 	
 #section8 ul li{
-    margin:0 auto;
-    position:relative;
-    float:left;
 	display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
 	padding-top:16em;
-	left:-700px;
 	height:2.5em;
 	}
 	
-#section9 ul li{
-    margin:0 auto;
+#section9 .nav{
     position:relative;
-    float:left;
+    left:300px;
+    top:-16em;
+    }		
+	
+#section9 ul li{
 	display:inline-block;
 	font-family: 'CallunaSansRegular';
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
 	padding-top:18em;
-	left:-650px;
 	height:2.5em;
 	}
 	
@@ -619,7 +991,7 @@ a {
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:17em;
+	padding-top:20em;
 	left:-150px;
 	height:2.5em;
 	}
@@ -633,7 +1005,7 @@ a {
 	font-size:.8em;
 	color:white;
 	padding-right:2em;
-	padding-top:16em;
+	padding-top:19em;
 	left:-100px;
 	height:2.5em;
 	}
