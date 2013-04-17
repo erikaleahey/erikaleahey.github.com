@@ -21,9 +21,24 @@ div {
 
   }
   
-.p {
+h1 {
+ top:10px;
+ padding-left:50px;
+ font-family: 'Stardos Stencil', cursive;
+ font-weight:700;
+ font-size:1.3em;
+ }
+ 
+h2 {
+ padding-left:50px;
  font-family: 'Varela', sans-serif;
- font-size:2em;
+ font-size:.8em;
+ }
+ 
+li {
+ padding-left:10px;
+ color: black;
+ list-style:none;
  }
 
 .name {
@@ -38,6 +53,25 @@ div {
  font-weight 800;
  font-size:.6em;
   }
+
+.incidentli {
+ background-color:#FF7F50;
+  box-shadow: 3px 3px 3px #686868;
+ font-family: 'Varela', sans-serif;
+ font-weight 800;
+ font-size:.6em;
+ width:130px;
+ }
+  
+.domesticli {
+ background-color:#009999;
+  box-shadow: 3px 3px 3px #686868;
+ font-family: 'Varela', sans-serif;
+ font-weight 800;
+ font-size:.6em;
+ width:130px;
+
+ }
   
 .incidents {
  margin-top:-25px;

@@ -1,8 +1,18 @@
 
 $(function() {
-  
-  var myParagraph = $("<p>").text("BOSTON CRIME STATS")
+    $("<h1>").text("BOSTON CRIME STATS")
+			.appendTo("body");
+	$("<h2>").text("KEY")
+			.appendTo("body");
+	$("<li>").text("Total Incidents")
+	        .addClass("incidentli")
+			.appendTo("h2");
+    $("<li>").text("Domestic Incidents")
+	        .addClass("domesticli")
+			.appendTo("h2");
+    $("<p>").text("")
 							.appendTo("body");
+
   
   
 });
@@ -33,7 +43,9 @@ $(function() {
       
       var row = $("<div>").addClass("row");
       
-	  var neighborhoodDiv = $("<div>").addClass("name")
+      
+	  var neighborhoodDiv = $("<div>")
+	        .addClass("name")
       		.text(neighborhood + " ")
       		.appendTo(row);
  
