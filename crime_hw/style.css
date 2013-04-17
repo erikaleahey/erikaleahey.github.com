@@ -1,0 +1,61 @@
+body{
+    background:lightyellow;
+    line-height:1.7em;
+    column-count: 2;
+    color:gray;
+    width:16500px;
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    font-family: 'Varela', sans-serif;
+    
+}
+
+div {
+ color:black;
+ }
+ 
+ .row {
+   height:60px;
+   
+
+  }
+  
+.p {
+ font-family: 'Varela', sans-serif;
+ font-size:2em;
+ }
+
+.name {
+ margin:5px;
+ padding-right:30px;
+ margin-top:20px;
+ border-radius: 5px;
+ width:280px;
+ text-align:right;
+ color:gray;
+ font-family: 'Varela', sans-serif;
+ font-weight 800;
+ font-size:.6em;
+  }
+  
+.incidents {
+ margin-top:-25px;
+ background-color:#FF7F50;
+  box-shadow: 3px 3px 3px #686868;
+ font-family: 'Varela', sans-serif;
+ font-weight 800;
+ font-size:.6em;
+ margin-left:305px;
+ }
+ 
+.domestic {
+ margin:5px;
+ background-color:#009999;
+  box-shadow: 3px 3px 3px #686868;
+ font-family: 'Varela', sans-serif;
+ font-weight 800;
+ font-size:.6em;
+ margin-left:305px;
+  
+  }
