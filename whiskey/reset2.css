@@ -51,7 +51,6 @@ table {
 
 
 
-
 /* Clearfix */
 .clearfix:after {
 	content: ".";
@@ -67,6 +66,94 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 
+/* The Nivo Slider styles */
+.nivoSlider {
+	position:relative;
+	top:100px;
+	left:650px;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:6;
+	display:none;
+}
+/* The slices and boxes in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:5;
+	height:100%;
+}
+.nivo-box {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+/* Caption styles */
+.nivo-caption {
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	background:#000;
+	color:#fff;
+	opacity:0.8; /* Overridden by captionOpacity setting */
+	width:100%;
+	z-index:8;
+}
+.nivo-caption p {
+	padding:5px;
+	margin:0;
+}
+.nivo-caption a {
+	display:inline !important;
+}
+.nivo-html-caption {
+    display:none;
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:45%;
+	z-index:9;
+	cursor:pointer;
+}
+.nivo-prevNav {
+	left:10px;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+}
+.nivo-nextNav {
+	right:800px;
+    font-family: 'CallunaSansRegular';
+    font-size:.8em;
+}
+/* Control nav styles (e.g. 1,2,3...) */
+.nivo-controlNav a {
+	position:relative;
+	z-index:9;
+	cursor:pointer;
+	top:550px;
+	margin-right:10px;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	left:-150px;
+}
+.nivo-controlNav a.active {
+	font-weight:bold;
+}
 
 
 @font-face {
@@ -104,7 +191,7 @@ body{
     line-height:1.4em;
     column-count: 2;
     color:white;
-    width:16500px;
+    width:17700px;
     position:absolute;
     top:0px;
     left:0px;
@@ -282,6 +369,34 @@ body{
   width:150px;
   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
   }
+  
+#section11 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }  
+
+#section12 .left {
+  position:relative;
+  float:left;
+  height:100%;
+  width:150px;
+  cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+  }
+
+#section12 .left a {
+   cursor:url('images/cursorleft.png'),url(myBall.cur),auto;
+   position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-decoration:none;
+    }
 
 #section1  {
   cursor:url('images/cursorright.png'),auto;
@@ -582,7 +697,13 @@ body{
     background-size: cover;
 }
 
-
+#section12 {
+  background: url('images/wolfburnwhiskeyrun_sepia.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 #section1 img{
  display:block;
@@ -861,9 +982,16 @@ a {
   padding-bottom:10em;
   }
 
+.descrip {
+ position:relative;
+ top:-15em;
+ left:-50px;
+ }
+
+
 #section2 .nav{
     position:relative;
-    left:300px;
+    left:200px;
     
 }
 
@@ -880,7 +1008,7 @@ a {
 #section3 .nav{
     position:relative;
     top:-3em;
-    left:400px;
+    left:290px;
     }
 	
 #section3 ul li{
@@ -894,7 +1022,7 @@ a {
 
 #section4 .nav{
     position:relative;
-    left:325px;
+    left:275px;
     top:2em;
     }
 
@@ -910,7 +1038,7 @@ a {
 	
 #section5 .nav{
     position:relative;
-    left:400px;
+    left:250px;
     top:-17em;
     }	
 	
@@ -924,6 +1052,7 @@ a {
 	height:2.5em;
 	}
 	
+	
 #section6 ul li{
     margin:0 auto;
     position:relative;
@@ -934,13 +1063,13 @@ a {
 	color:white;
 	padding-right:2em;
 	padding-top:21em;
-	left:-150px;
+	left:-300px;
 	height:2.5em;
 	}
 	
 #section7 .nav{
     position:relative;
-    left:400px;
+    left:275px;
     top:-1em;
     }	
 	
@@ -956,7 +1085,7 @@ a {
 
 #section8 .nav{
     position:relative;
-    left:300px;
+    left:200px;
     top:-13em;
     }	
 	
@@ -996,7 +1125,7 @@ a {
 	color:white;
 	padding-right:2em;
 	padding-top:20em;
-	left:-150px;
+	left:-300px;
 	height:2.5em;
 	}
 	
@@ -1010,6 +1139,28 @@ a {
 	color:white;
 	padding-right:2em;
 	padding-top:19em;
-	left:-100px;
+	left:-300px;
 	height:2.5em;
 	}
+
+#section12 .nav{
+    position:relative;
+    left:0px;
+    top:12em;
+    font-family: 'CallunaSansRegular';
+    }	
+
+#section12 ul li{
+    margin:0 auto;
+    position:relative;
+    float:left;
+	display:inline-block;
+	font-family: 'CallunaSansRegular';
+	font-size:.8em;
+	color:white;
+	padding-right:2em;
+	padding-top:19.5em;
+	left:-250px;
+	height:2.5em;
+	}
+
