@@ -1,0 +1,23 @@
+body{
+
+    
+}
+
+#title-bar {
+  height:100px;
+  width:100%;
+  background-color:white;
+  box-shadow: 0 4px 4px -2px #000;
+  }
+  
+#title-bar h1 {
+ font-family: 'Noto Sans', sans-serif; 
+ font-weight:400;
+ font-size:3em;
+ padding-left:25px;
+ }
+
+#map-canvas { 
+   margin-top:4px;
+   height:700px; }
+

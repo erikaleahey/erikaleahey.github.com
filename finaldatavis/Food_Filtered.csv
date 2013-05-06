@@ -1,0 +1,341 @@
+BusinessName,DBAName,LegalOwner,NameLast,NameFirst,LICENSENO,ISSDTTM,EXPDTTM,LICSTATUS,LICENSECAT,DESCRIPT,RESULT,Violation,ViolLevel,ViolDesc,VIOLDTTM,ViolStatus,StatusDate,Comments,Location
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,39-6-304.11,*,Rooms and Equipment Vented,01/16/2013 11:11:00 AM,Fail, ,Provide proper ventilation in basement employee restroom. Repair as needed.,"47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,32-6-301.11-02.11,*,Hand Cleaner  Drying  Tissue Signage,01/16/2013 11:11:00 AM,Fail, ,"Provide proper covered waste receptacle in ladies's employee public restroom. Provide proper handwash signage in emplyee/public restrooms. (""Employees must wash hands before returning to work."")","47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,29-5-201/02.11,*,Installed and Maintained,01/16/2013 11:11:00 AM,Fail, ,Properly repair backed up sink drain in Men's employee/public restroom. Provide proper temperature to hot water in Men's employee/public restroom.,"47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,24-4-903.11,*,Clean Equipment & Utensils Storage,01/16/2013 11:11:00 AM,Fail, ,Provide proper storage of all clean cutting boards after each use. Keep seperated to air dry.,"47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,17-4-302.14,*,Test Kit Provided,01/16/2013 11:11:00 AM,Fail, ,Provide proepr chlorine test kit for low temp dishwasher in kitchen.,"47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Asta,NULL,TZANTZOS,Spaceship Picnic L L C,NULL,80836,01/24/2013 10:46:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,16-4-501.11/.15,*,Dishwashng Facilities,01/16/2013 11:11:00 AM,Fail, ,Properly label all sinks at 3 compartment sink. (wash  rinse and sanitize.),"47 Massachusetts AV
+BOSTON, MA 02115
+(42.349818, -71.089268)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,33-5-501.13-.17,*,Adequate Number  Frequency Vermin Proof,12/03/2012 11:25:00 AM,Fail, ,provide a covered receptacle...,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,M-3-603.11,***,Consumer Advisories,12/03/2012 11:25:00 AM,Fail, ,provide allergin cert....post consumer advisory for all menus and menu boards....,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,02-3-602.11-.12/3-302.12,*,Food Container Labels,12/03/2012 11:25:00 AM,Fail, ,label all bulk containers,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,03-3-501.14,***,Cooling,12/03/2012 11:25:00 AM,Fail, ,NULL,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,12/03/2012 11:25:00 AM,Fail, ,replace all defective door gaskets...,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,29-5-201/02.11,*,Installed and Maintained,12/03/2012 11:25:00 AM,Fail, ,replace worn/cracked toilet seat....adjust water hot handle runs only for 3 seconds....,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Big Bites,NULL,NULL,Big Bites Inc.,NULL,84999,01/04/2013 02:27:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,32-6-301.11-02.11,*,Hand Cleaner  Drying  Tissue Signage,12/03/2012 11:25:00 AM,Fail, ,provide a papertowel dispencor at sandwich prep area...,"10 Walk Hill ST
+JAMAICA PLAIN, MA 02130
+(42.29585, -71.115739)"
+Cafe Province,NULL,NULL,T & M Food Corp.,NULL,86530,01/04/2013 02:24:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,08-3-305-307.11,*,Food Protection,12/07/2012 03:37:00 PM,Fail, ,The bug light is over the food prep sink.  Provide separation between food prep and light.,"26 Province ST
+BOSTON, MA 02108
+(42.357172, -71.059651)"
+Cafe Province,NULL,NULL,T & M Food Corp.,NULL,86530,01/04/2013 02:24:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,32-6-501.11-.12/6-202.14,*,Toilet Enclosed Clean,12/07/2012 03:37:00 PM,Fail, ,The bathroom is not self-closing.  Provide self closing door.,"26 Province ST
+BOSTON, MA 02108
+(42.357172, -71.059651)"
+Cafe Province,NULL,NULL,T & M Food Corp.,NULL,86530,01/04/2013 02:24:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,12/07/2012 03:37:00 PM,Fail, ,The wood on the shelves is unfinished.  Finish to provide a smooth  cleanable  durable surface. The grease trap is rusted.  Resurface to provide a smooth  cleanable  durable surface.,"26 Province ST
+BOSTON, MA 02108
+(42.357172, -71.059651)"
+Cosmopolitan Lounge,NULL,ROBERTO LOUIE J,Cosmopolitan Lounge Inc.,c/o Maya,83608,01/07/2013 09:35:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,41-7-101.11,***,Toxic Items: Original Container,10/25/2012 12:28:00 PM,Fail, ,remove all chemicals stored in basement. Remove paint and other toxic materials from storage.,"276 Bennington ST
+EAST BOSTON, MA 02128
+(42.37881, -71.02906)"
+Cosmopolitan Lounge,NULL,ROBERTO LOUIE J,Cosmopolitan Lounge Inc.,c/o Maya,83608,01/07/2013 09:35:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,41-7-102.11,***,Labeled  Common Name,10/25/2012 12:28:00 PM,Fail, ,label all spray bottles containing toxic chemicals,"276 Bennington ST
+EAST BOSTON, MA 02128
+(42.37881, -71.02906)"
+Cosmopolitan Lounge,NULL,ROBERTO LOUIE J,Cosmopolitan Lounge Inc.,c/o Maya,83608,01/07/2013 09:35:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,42-6-501.113/.114,*,Premises Maintained,10/25/2012 12:28:00 PM,Fail, ,remove all unecessary asrticles from storage in basement. Remove all unused equioment and supplies. Organize all remaining items stored in basement.   Remove all supplies from area around post mix soda station.,"276 Bennington ST
+EAST BOSTON, MA 02128
+(42.37881, -71.02906)"
+Cosmopolitan Lounge,NULL,ROBERTO LOUIE J,Cosmopolitan Lounge Inc.,c/o Maya,83608,01/07/2013 09:35:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,31-5-203.11,***,Number  Convenient,10/25/2012 12:28:00 PM,Fail, ,provide hand sink at bar. Hand sink should contain hot and cold running water. Currently  bar only has a 3 compartment sink  used for warewashing.,"276 Bennington ST
+EAST BOSTON, MA 02128
+(42.37881, -71.02906)"
+Cosmopolitan Lounge,NULL,ROBERTO LOUIE J,Cosmopolitan Lounge Inc.,c/o Maya,83608,01/07/2013 09:35:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,36-6-201.11,*,Floors Designed Constructed Installed,10/25/2012 12:28:00 PM,Fail, ,clean floor througout basement.,"276 Bennington ST
+EAST BOSTON, MA 02128
+(42.37881, -71.02906)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,36-6-501.11-.12,*,Improper Maintenance of Floors,10/04/2012 10:30:00 AM,Fail, ,Resurface floor in basement prep,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,01-3-602.11 B2,***,Labeling of Ingredients,10/04/2012 10:30:00 AM,Fail, ,Prewrapped brownies and cookies not labeled,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,05-4-302.12,*,Food Thermometers Provided,10/04/2012 10:30:00 AM,Fail, ,Provide food thermometer,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,13-2-304/402.11,*,Clean Cloths  Hair Restraint,10/04/2012 10:30:00 AM,Fail, ,Food handler not wearing hair restraint,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,10/04/2012 10:30:00 AM,Fail, ,Exposed wood on shelves.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,10/04/2012 10:30:00 AM,Fail, ,Provide splash guard between 3 bay sink and food prep sink.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,16-4-501.11/.15,*,Dishwashng Facilities,10/04/2012 10:30:00 AM,Fail, ,Provide plugs for each bay,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,17-4-204.112/.115,*,Equipment Thermometers,10/04/2012 10:30:00 AM,Fail, ,Provide thermometers to all refrigeration units containing potentially hazardous foods.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,23-4-602.13,*,Non-Food Contact Surfaces Clean,10/04/2012 10:30:00 AM,Fail, ,Clean all shelving.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,23-4-602.13,*,Non-Food Contact Surfaces Clean,10/04/2012 10:30:00 AM,Fail, ,Clean interior of Snapple refrig. unit,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,23-4-602.13,*,Non-Food Contact Surfaces Clean,10/04/2012 10:30:00 AM,Fail, ,Evidence of old mice droppings on shelving,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,32-6-501.11-.12/6-202.14,*,Toilet Enclosed Clean,10/04/2012 10:30:00 AM,Fail, ,Bathroom door not serf closing.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,36-6-501.11-.12,*,Improper Maintenance of Floors,10/04/2012 10:30:00 AM,Fail, ,Resurface worn floor & steps,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,10/04/2012 10:30:00 AM,Fail, ,Ceiling not smooth  durable and easily cleanable.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,10/04/2012 10:30:00 AM,Fail, ,Clean walls and all attachments.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,10/04/2012 10:30:00 AM,Fail, ,Seal opening in ceiling around delivery.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,10/04/2012 10:30:00 AM,Fail, ,Walls not smooth durable and easily cleanable,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,42-6-501.113/.114,*,Premises Maintained,10/04/2012 10:30:00 AM,Fail, ,Remove all unused and unnecessary equipment,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-2-102.11,***,PIC Knowledge,10/04/2012 10:30:00 AM,Fail, ,Provide proof full time certified food protection manager and said manager must be certified in Allergen Awareness.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Derne Street Deli,NULL,MIRABELLA SALVATORE P TS,Steadfast Inc.,NULL,81264,01/07/2013 09:41:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-3-603.11,***,Consumer Advisories,10/04/2012 10:30:00 AM,Fail, ,Provide disclosure on menu for under cooked eggs.,"14 Derne ST
+BOSTON, MA 02114
+(42.35953, -71.06344)"
+Earl of Sandwich,NULL,NULL,Earl of Sandwich (Boston) L L C,NULL,77992,01/07/2013 09:08:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-3-603.11,***,Consumer Advisories,11/15/2012 12:00:00 PM,Fail, ,no consumer advisory :  reminder or disclaimer on menu for roast beef  supply,"1 Charles ST
+BOSTON, MA 02116
+(42.351541, -71.067431)"
+Earl of Sandwich,NULL,NULL,Earl of Sandwich (Boston) L L C,NULL,77992,01/07/2013 09:08:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,16-4-301.12,*,Three Compartment Sink,11/15/2012 12:00:00 PM,Fail, ,three bay sink is too small for largest piece of equipment  supply adaquate three bay sink.,"1 Charles ST
+BOSTON, MA 02116
+(42.351541, -71.067431)"
+Earl of Sandwich,NULL,NULL,Earl of Sandwich (Boston) L L C,NULL,77992,01/07/2013 09:08:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,08-3-305-307.11,*,Food Protection,11/15/2012 12:00:00 PM,Fail, ,waste lines exposed over ware washing area and prep area  supply proper protection,"1 Charles ST
+BOSTON, MA 02116
+(42.351541, -71.067431)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,42-6-501.113/.114,*,Premises Maintained,12/03/2012 09:42:00 AM,Fail, ,remove all unnessary articles throughout cellar....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,38-6-303.11,*,Inadequate Lighting,12/03/2012 09:42:00 AM,Fail, ,provide adequate lighting at 2 dr. unit...,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,12/03/2012 09:42:00 AM,Fail, ,clean walls in cellar....ceiling tiles shall be made smooth and easy cleanable....seal all holes throughout walls....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,36-6-501.11-.12,*,Improper Maintenance of Floors,12/03/2012 09:42:00 AM,Fail, ,clean floor inbetween equipment....seal all holes in floor..,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,08-3-302.11/3-304.11,***,Separation  Segregation Cross Contamination,12/03/2012 09:42:00 AM,Fail, ,NULL,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,14-4-202.11,*,Food Contact Surfaces Design,12/03/2012 09:42:00 AM,Fail, ,provide food grade containers...replace all scored cutting boards...,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,12/03/2012 09:42:00 AM,Fail, ,replace all scored cutting boards....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,17-4-302.14,*,Test Kit Provided,12/03/2012 09:42:00 AM,Fail, ,NULL,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,29-5-201/02.11,*,Installed and Maintained,12/03/2012 09:42:00 AM,Fail, ,enclose and seal handsinks...,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,35-6-501.111/.115,**,Insects  Rodents  Animals,12/03/2012 09:42:00 AM,Fail, ,remove all mice droppings throughout and provide a pest control report....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-3-603.11,***,Consumer Advisories,12/03/2012 09:42:00 AM,Fail, ,Provide allergin advisory provide cert.....also post on all menus....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,20-4-703.11,***,Food Contact Surfaces Clean,12/03/2012 09:42:00 AM,Fail, ,NULL,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,21-3-304.14,*,Wiping Cloths  Clean  Sanitize,12/03/2012 09:42:00 AM,Fail, ,NULL,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,33-5-501.13-.17,*,Adequate Number  Frequency Vermin Proof,12/03/2012 09:42:00 AM,Fail, ,provide covers for all trash receptacles...,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,22-4-601/602.11,**,Food Contact Surfaces Clean,12/03/2012 09:42:00 AM,Fail, ,degrease all cooking equipment....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,23-4-602.13,*,Non-Food Contact Surfaces Clean,12/03/2012 09:42:00 AM,Fail, ,clean all equipment and degrease all equipment....clean all reach ins and remove mold....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Espresso Pizza,NULL,RASLA AMIN,St Samuel Inc.,NULL,85005,01/03/2013 03:00:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,25-4-904.11,*,Single Service Articles Stored Dispensed,12/03/2012 09:42:00 AM,Fail, ,properly store all single use items....,"1829 Centre ST
+WEST ROXBURY, MA 02132
+(42.286998, -71.153789)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,38-6-202.11,*,Fixture's not properly shielded,11/20/2012 10:49:00 AM,Fail, ,no light shield on lights in first bathroom  supply,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,38-6-303.11,*,Inadequate Lighting,11/20/2012 10:49:00 AM,Fail, ,3 light bulbs missing at cooking line  replace,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,16-4-301.12,*,Three Compartment Sink,11/20/2012 10:49:00 AM,Fail, ,no drain plugs for three bay sink  supply three drain plugs,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,11/20/2012 10:49:00 AM,Fail, ,1) drying racks above 3 bay sink not installed  supply 2) shelving above prep sink not installed  supply,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,08-3-305-307.11,*,Food Protection,11/20/2012 10:49:00 AM,Fail, ,no sneeze guard for pizz rack at front counter installed  supply,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,16-4-501.11/.15,*,Dishwashng Facilities,11/20/2012 10:49:00 AM,Fail, ,dish machine not plumbed  plumb properly,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,17-4-302.14,*,Test Kit Provided,11/20/2012 10:49:00 AM,Fail, ,no test kit to measure quatenary ammonia in 3 bay sink  supply,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,29-5-201/02.11,*,Installed and Maintained,11/20/2012 10:49:00 AM,Fail, ,hot water faucet at 3 bay sink doesn't shut off  repair,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,31-5-203.11,***,Number  Convenient,11/20/2012 10:49:00 AM,Fail, ,hand sink not installed at end of cooking line near front counter per approved plans  install,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,32-6-501.11-.12/6-202.14,*,Toilet Enclosed Clean,11/20/2012 10:49:00 AM,Fail, ,door closer on door in second bathroom broken  repair,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+Il Mondo Pizza,NULL,MANSOUR MOUSSAVI  PRES.,Naser Othman,NULL,80044,01/04/2013 03:20:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,37-6-201.11,*,Walls/Ceilings Designed Constructed Installed,11/20/2012 10:49:00 AM,Fail, ,1) ceiling tile missing above dish machine   replace 2) no sticker at hood over pizza ovens  supply,"182 Massachusetts AV
+BOSTON, MA 02115
+(42.345747, -71.086679)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,08-3-305-307.11,*,Food Protection,12/04/2012 11:33:00 AM,Fail, ,seal all open bags in cellar...elevate all beverages off the floor and in walkin box....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,14-4-202.11,*,Food Contact Surfaces Design,12/04/2012 11:33:00 AM,Fail, ,provide food grade containers....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,25-4-904.11,*,Single Service Articles Stored Dispensed,12/04/2012 11:33:00 AM,Fail, ,invert or cover all single use articles...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,08-3-302.11/3-304.11,***,Separation  Segregation Cross Contamination,12/04/2012 11:33:00 AM,Fail, ,relocate all raw eggs in 2 dr. reach in....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,12/04/2012 11:33:00 AM,Fail, ,replace or repair defective door gasket at walkin...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,23-4-602.13,*,Non-Food Contact Surfaces Clean,12/04/2012 11:33:00 AM,Fail, ,clean all shelves...remove frost from freezer....clean mop sink....clean and degrease all equipment....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,29-5-201/02.11,*,Installed and Maintained,12/04/2012 11:33:00 AM,Fail, ,provide proper plumbing line at walkin  compressor is dripping onto shelving in bucket....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,31-5-204/05.11,***,Location  Accessible,12/04/2012 11:33:00 AM,Fail, ,NULL,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,32-6-501.11-.12/6-202.14,*,Toilet Enclosed Clean,12/04/2012 11:33:00 AM,Fail, ,NULL,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,34-5-501.111/.115,*,Outside Storage Improperly Maintained,12/04/2012 11:33:00 AM,Fail, ,remove pots and loose bags  provide proper storage....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,36-6-501.11-.12,*,Improper Maintenance of Floors,12/04/2012 11:33:00 AM,Fail, ,floor in walkin needs to be sealed throughout....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,12/04/2012 11:33:00 AM,Fail, ,clean al walls throughout...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,12/04/2012 11:33:00 AM,Fail, ,replace missing ceiling tiles in cellar....clean all ceiling tiles in food service area...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,42-6-501.113/.114,*,Premises Maintained,12/04/2012 11:33:00 AM,Fail, ,provide a maintenance rack for proper storage of all mops and brooms...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-3-603.11,***,Consumer Advisories,12/04/2012 11:33:00 AM,Fail, ,complete consumer advisory for all menus and menu board....,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,13-2-304/402.11,*,Clean Cloths  Hair Restraint,12/04/2012 11:33:00 AM,Fail, ,provide hair restraints...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,10-3-304.12,*,Food Utensil Storage,12/04/2012 11:33:00 AM,Fail, ,NULL,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+J P House of Pizza,NULL,KAHN LEO TRSTS,Katsinis,George,85008,01/03/2013 03:01:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,27-5-103.11-.12,***,Hot and Cold Water,12/04/2012 11:33:00 AM,Fail, ,provide cold water under pressure in employee restroom...,"775 Centre ST
+JAMAICA PLAIN, MA 02130
+(42.31006, -71.11548)"
+LARRY J'S BBQ CAFE,NULL,NULL,Jimerson Enterprises L L C,NULL,80130,01/07/2013 09:54:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,32-6-301.11-02.11,*,Hand Cleaner  Drying  Tissue Signage,06/29/2012 10:32:00 AM,Fail, ,provide paper towels in dispenser,
+LARRY J'S BBQ CAFE,NULL,NULL,Jimerson Enterprises L L C,NULL,80130,01/07/2013 09:54:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,05-4-302.12,*,Food Thermometers Provided,06/29/2012 10:32:00 AM,Fail, ,provide thermometer,
+LARRY J'S BBQ CAFE,NULL,NULL,Jimerson Enterprises L L C,NULL,80130,01/07/2013 09:54:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,17-4-302.14,*,Test Kit Provided,06/29/2012 10:32:00 AM,Fail, ,provide,
+Neighborhoods,NULL,HUANG FRANKIE S.,Betsy Hill,NULL,79718,01/07/2013 09:04:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,20-4-703.11,***,Food Contact Surfaces Clean,01/17/2013 10:43:00 AM,Fail, ,Provide proper sanitizing reading to 3 compartment sink. Quaternary Ammonium reading must be at 150ppm - 400ppm.,"96 Peterborough ST
+BOSTON, MA 02116
+(42.34302, -71.099229)"
+Neighborhoods,NULL,HUANG FRANKIE S.,Betsy Hill,NULL,79718,01/07/2013 09:04:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,29-5-201/02.11,*,Installed and Maintained,01/17/2013 10:43:00 AM,Fail, ,Proeprly repair leak at base of 3 compartment sink in warewashing area.,"96 Peterborough ST
+BOSTON, MA 02116
+(42.34302, -71.099229)"
+Pinkberry (TRMNL C Pier B Side),NULL,NULL,Branded Works Inc.,NULL,81094,01/07/2013 09:53:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,16-4-501.11/.15,*,Dishwashng Facilities,12/21/2012 12:59:00 PM,Fail, ,provide labels for all 3 sinks of the 3 bay sink and provide warewashing instructions. Provide drain racks for all clean materials at the 3 bay sink.,
+Pinkberry (TRMNL C Pier B Side),NULL,NULL,Branded Works Inc.,NULL,81094,01/07/2013 09:53:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,42-6-501.113/.114,*,Premises Maintained,12/21/2012 12:59:00 PM,Fail, ,remove all unecessary items from storage throughout this establishment,
+Poe's Chester Square Pub,NULL,GS PARTNERS LP,Gordon Wilcox Pres.,NULL,74726,01/04/2013 03:35:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,37-6-201.11,*,Walls/Ceilings Designed Constructed Installed,11/29/2012 10:33:00 AM,Fail, ,In basement  enclose sprinkler pipes running on ceiling in basement prep kitchen and warewashing area. Covering should be smooth  durable  and easily cleanable.,"782A Tremont ST
+SOUTH END, MA 02118
+(42.33899, -71.08051)"
+Sandella's Flatbread Cafe,NULL,NULL,Global Creations 2020 L L C,NULL,84977,01/03/2013 03:04:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,27-5-103.11-.12,***,Hot and Cold Water,11/29/2012 10:36:00 AM,Fail, ,The sinks were just filled and the grease trap was being cleaned so the hot water was running at the onset of the inspection.  The water at the handsinks is 75F.  The establishment was closed at the onset of the inspection and will remain closed until the ,"2 Oliver ST
+BOSTON, MA 02109
+(42.357262, -71.054578)"
+Sandella's Flatbread Cafe,NULL,NULL,Global Creations 2020 L L C,NULL,84977,01/03/2013 03:04:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-2-103.11,***,PIC Performing Duties,11/29/2012 10:36:00 AM,Fail, ,There is no allergen warning on the new menus or allergen poster in the employee area.  Comply with all allergen requirements. The certified person is not the allergen trained person.  Provide a manger who has both certifications.,"2 Oliver ST
+BOSTON, MA 02109
+(42.357262, -71.054578)"
+Sandella's Flatbread Cafe,NULL,NULL,Global Creations 2020 L L C,NULL,84977,01/03/2013 03:04:00 PM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,03-3-403.11,***,Reheating,11/29/2012 10:36:00 AM,Fail, ,The soup is being reheated on the steam table.  Provide proper method of reheating soups.,"2 Oliver ST
+BOSTON, MA 02109
+(42.357262, -71.054578)"
+Scoozi (237 Newbury St.),NULL,NULL,Wendy Schofield Pres.,NULL,83782,01/04/2013 03:18:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,35-6-501.111/.115,**,Insects  Rodents  Animals,11/13/2012 10:26:00 AM,Fail, ,Properly remove evidence of live flies in establishment.,"237 Newbury ST
+BOSTON, MA 02116
+(42.349901, -71.082039)"
+Scoozi (237 Newbury St.),NULL,NULL,Wendy Schofield Pres.,NULL,83782,01/04/2013 03:18:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,01/28/2013 10:17:00 AM,Fail, ,Provide missing ceiling tile for ac/heating unit above 3 compartment sink in kitchen area.,"237 Newbury ST
+BOSTON, MA 02116
+(42.349901, -71.082039)"
+Scoozi (237 Newbury St.),NULL,NULL,Wendy Schofield Pres.,NULL,83782,01/04/2013 03:18:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,21-3-304.14,*,Wiping Cloths  Clean  Sanitize,11/13/2012 10:26:00 AM,Fail, ,Properly store all wiping cloths in a sanitizing solution in food prep area's.,"237 Newbury ST
+BOSTON, MA 02116
+(42.349901, -71.082039)"
+Scoozi (237 Newbury St.),NULL,NULL,Wendy Schofield Pres.,NULL,83782,01/04/2013 03:18:00 PM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,21-3-304.14,*,Wiping Cloths  Clean  Sanitize,01/28/2013 10:17:00 AM,Fail, ,Properly store all wiping cloths in a sanitizing solution in food prep area's.,"237 Newbury ST
+BOSTON, MA 02116
+(42.349901, -71.082039)"
+SNS Biryani Park Malden,NULL,NULL,Mathews,Premila,86597,01/07/2013 09:27:00 AM,12/31/2013 11:59:00 PM,Active,MFW,Mobile Food Walk On,HE_Fail,27-5-103.11-.12,***,Hot and Cold Water,12/19/2012 03:09:00 PM,Fail, ,Provide hot water under pressure.,
+SNS Biryani Park Malden,NULL,NULL,Mathews,Premila,86597,01/07/2013 09:27:00 AM,12/31/2013 11:59:00 PM,Active,MFW,Mobile Food Walk On,HE_Fail,41-7-201/04.11,***,Separation/Sanitizer Criteria,12/19/2012 03:09:00 PM,Fail, ,Provide sanitizer for sanitizing equipment and surfaces.,
+SNS Biryani Park Malden,NULL,NULL,Mathews,Premila,86597,01/07/2013 09:27:00 AM,12/31/2013 11:59:00 PM,Active,MFW,Mobile Food Walk On,HE_Fail,17-4-302.14,*,Test Kit Provided,12/19/2012 03:09:00 PM,Fail, ,Provide test for testing sanitizer.,
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,17-4-302.14,*,Test Kit Provided,01/16/2013 12:01:00 PM,Fail, ,NULL,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,37-6-501.11-.12,*,Improper Maintenance of Walls/Ceilings,01/16/2013 12:01:00 PM,Fail, ,ceiling tiles shall be made smooth and easy cleanable....replace missing baseboard cove molding....seal all holes in walls...,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,14-4-202.11,*,Food Contact Surfaces Design,01/16/2013 12:01:00 PM,Fail, ,replace all worn equipment....,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,32-6-301.11-02.11,*,Hand Cleaner  Drying  Tissue Signage,01/16/2013 12:01:00 PM,Fail, ,NULL,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,01/16/2013 12:01:00 PM,Fail, ,replace defective door gaskets....caulk all sinks...,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+Thai Spice,NULL,NULL,Limlomwongse,Apisit,86752,01/18/2013 09:11:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,M-3-603.11,***,Consumer Advisories,01/16/2013 12:01:00 PM,Fail, ,post and print all allergin advisory on menus and menu board....,"1745 Centre ST
+WEST ROXBURY, MA 02132
+(42.287454, -71.150249)"
+The Vault Restaurant,NULL,BARRY HANNON  PRES.,C.O. Restaurant Group L L C,NULL,86704,01/24/2013 10:42:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,17-4-302.14,*,Test Kit Provided,01/14/2013 11:02:00 AM,Fail, ,Chlorine test strips are faded.  Provide new test strips.,
+The Vault Restaurant,NULL,BARRY HANNON  PRES.,C.O. Restaurant Group L L C,NULL,86704,01/24/2013 10:42:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,590.009(E),*,Anti-Choking,01/14/2013 11:02:00 AM,Fail, ,NULL,
+The Vault Restaurant,NULL,BARRY HANNON  PRES.,C.O. Restaurant Group L L C,NULL,86704,01/24/2013 10:42:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,M-3-603.11,***,Consumer Advisories,01/14/2013 11:02:00 AM,Fail, ,Consumer advisory is oncomplete.  Provide complete reminder and disclaimer.,
+The Vault Restaurant,NULL,BARRY HANNON  PRES.,C.O. Restaurant Group L L C,NULL,86704,01/24/2013 10:42:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,15-4-202.16,*,Non-Food Contact Surfaces,01/14/2013 11:02:00 AM,Fail, ,Refrigerator gaskets on large unit are broken.  Repair.,
+The Vault Restaurant,NULL,BARRY HANNON  PRES.,C.O. Restaurant Group L L C,NULL,86704,01/24/2013 10:42:00 AM,12/31/2013 11:59:00 PM,Active,FS,Eating & Drinking,HE_Fail,22-4-601/602.11,**,Food Contact Surfaces Clean,01/14/2013 11:02:00 AM,Fail, ,The slicer is soiled.  Clean to remove.,
+WICH ! T,NULL,KANEGIS SIDNEY S,Behind The Curtain Inc.,NULL,80562,01/07/2013 08:59:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,30-5-203.14,**,Cross Connection Back Siphonage  Backflow,12/13/2012 02:07:00 PM,Fail, ,Provide proper backflow preventer for hose connection at mop sink.,"244 Newbury ST
+BOSTON, MA 02116
+(42.34941, -71.0824)"
+WICH ! T,NULL,KANEGIS SIDNEY S,Behind The Curtain Inc.,NULL,80562,01/07/2013 08:59:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,32-6-301.11-02.11,*,Hand Cleaner  Drying  Tissue Signage,12/13/2012 02:07:00 PM,Fail, ,Provide proper covered waste receptacle for ladies's employee/public restroom.,"244 Newbury ST
+BOSTON, MA 02116
+(42.34941, -71.0824)"
+WICH ! T,NULL,KANEGIS SIDNEY S,Behind The Curtain Inc.,NULL,80562,01/07/2013 08:59:00 AM,12/31/2013 11:59:00 PM,Active,FT,Eating & Drinking w/ Take Out,HE_Fail,29-5-201/02.11,*,Installed and Maintained,12/13/2012 02:07:00 PM,Fail, ,Properly repair leak at base of 3 compartment sink.,"244 Newbury ST
+BOSTON, MA 02116
+(42.34941, -71.0824)"
