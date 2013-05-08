@@ -5,6 +5,10 @@ $(function() {
         mapTypeId: google.maps.MapTypeId.ROADMAP
       };
       var myMap = new google.maps.Map($("#map-canvas")[0],mapOptions);
+      
+      var infowindow = new google.maps.InfoWindow({
+            maxWidth: 200
+            });
 
       var layer = new google.maps.FusionTablesLayer({
         query: {
@@ -14,17 +18,22 @@ $(function() {
         styles: [
           {
             markerOptions: {
-              iconName: "small_green"
+              iconName: "caution",
             },
           },
         ],
         heatmap: {
          // enabled: true
         }
+        
+        
       });
       layer.setMap(myMap);
+      
+    
+            
+        });﻿
 
-    });
       
 
 

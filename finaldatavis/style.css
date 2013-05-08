@@ -8,6 +8,7 @@ body{
   width:100%;
   background-color:white;
   box-shadow: 0 4px 4px -2px #000;
+  padding-bottom:5px;
   }
   
 #title-bar h1 {
@@ -18,6 +19,48 @@ body{
  }
 
 #map-canvas { 
-   margin-top:4px;
-   height:700px; }
+   top:4px;
+   height:600px; 
+  }
 
+#map { 
+   padding-top:4px;
+   height:605px; 
+  }
+  
+#descrip {
+  position:absolute;
+  background-color:white;
+  left:1000px;
+  top:250px;
+  width:250px;
+  height:350px;
+  z-index:3;
+  border-radius: 15px;
+  box-shadow: 2px 2px 3px #000;
+  }
+   
+#descrip p{
+ font-family: 'Noto Sans', sans-serif; 
+ font-weight:400;
+ font-size:1em;
+ margin-left:20px;
+ width:200px;
+ }
+   
+.fail {
+ color:#D80000;
+ }
+
+.googft-legend {
+ background-color:red;
+ }
+ 
+#footer {
+ background-color:#303030;
+ height:40px;
+ width:100%;
+ position:absolute;
+ left:0px;
+ bottom:0px;
+ }
