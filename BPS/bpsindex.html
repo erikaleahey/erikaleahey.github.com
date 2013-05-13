@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+    <title>Boston Pick-Up Sports</title>
+  </head>
+  
+<body>
+
+   <nav id="navigation">
+    <ul>
+      <li><a href="#section1">BPS IS...</a></li>
+      <li><a href="#section3">5 SPORTS</a></li>
+      <li><a href="#section5">WHY YOUNG ADULTS?</a></li>
+      <li><a href="#section7">DATA:BOSTON</a></i>
+      <li><a href="#section9">DATA:NATIONAL</a></li>
+      <li><a href="#section11">BPS IN ACTION</a></li>
+    <ul>
+ </nav>
+  
+ <div class="BPS_Is" id="section1">
+   <h1>BPS </h1>
+   <h2>IS...</h2>
+ </div>
+ 
+ <div class="FF_Casual" id="section2">
+   <h1>FREE</h1>
+   <h2>FUN</h2>
+   <h3>&</h3>
+   <h4>CASUAL</h4>
+   <p>With no long-term commitments, Boston Pick-up Sports is a way 
+   for young adults to get together to play sports, de-stress from the work week, 
+   and meet new friends.</p>
+ </div>
+ 
+ <div class="5_Sports" id="section3">
+   <h1>WITH 5 SPORTS TO CHOOSE FROM...</h1>
+   <img src='images/Sports_Balls.png'>
+   <div class="sports">
+      <p>BASKETBALL</p>
+      <p>SOCCER</p>
+      <p>TENNIS</p>
+      <p>VOLLEYBALL</p>
+     <p>DODGEBALL</p>
+   </div>
+  </div>
+  
+  <div class="BPS_Descrip" id="section4">
+    <p>Boston Pick-Up Sports has both a website and an app to help users stay connected 
+    and organize games. <br><br>
+    
+    Users can go to bostonpickupsports.com to register. There, they can search for games 
+    to join, or they can organize their own. Users can create match specifications using 
+    categories  such as: time, date, location, skill level, competitive level, and age. 
+    Setting up games is completely free, but there are also options to have paid games for 
+    more competitive players that wish to utilize BPS&apos; referee services.<br><br>
+
+    The real-time application allows users to check notifications, create and view events 
+    on the fly, and record the stats of their matches.
+    </p>
+  </div>
+  
+  <div class="WHY_YA" id="section5">
+    <h1>WHY</h1>
+    <h2>YOUNG</h2>
+    <h3>ADULTS?</h3>
+  </div>
+  
+  <div class="YA_Descrip" id="section6">
+    <p>Boston is unique, as it is home to over fifty colleges. As a college town, there is 
+       a much larger young adult population 
+       than in other cities. While Boston has a lot of great programs catered to the young 
+       adults, and plenty of intramural teams, there is no service that offers a  low 
+       commitment, free option to meet other people and play pick-up games. Most of 
+       organizations catering to meeting new people are dating sites, and the services BPS
+       provides are strictly platonic. The objective of BPS is to stress free and fun as 
+       possible. <br><br>
+       
+       Research also revealed that a shocking number of people that played sports in high 
+       school don't continue to do so afterwards. BPS aims to provide an alternative to the 
+       hyper-competitve atmosphere that college sports foster.</p>
+  </div>
+  
+  <div class="Data_Boston" id="section7">
+    <h1>DEMOGRAPHIC DATA: BOSTON</h1>
+    <p>101, 540 people are currently enrolled in college or graduate school in Boston.</p>
+    <p>One in three Boston residents is a young adult.</p> 
+    <p>Boston gains around 10,000 new people each year.</p>
+    <p>In 2001, Boston&apos;s young adults had total expenditures exceeding $3.4 billion&mdash;with 
+    $1.3 billion spent on housing, $382 million on entertainment and food away from home, 
+    and $173 million on apparel and services.</p>
+    <p>Boston&apos;s share of the state&apos;s young adult population has increased from 12.7% to 
+    14.6% in the last two decades.</p>
+  </div>
+  
+  <div class="Boston_Images" id="section8">
+    <img src="images/piechart.png">
+    <img src="images/graph.png">
+  </div>
+  
+  <div class="Data_National" id="section9">
+    <h1>DEMOGRAPHIC DATA: NATIONAL</h1>
+    <p>One out of five Americans is classified as a young adult.</p>
+    <p>20&ndash;34 year olds constitute 20.3% of the population.</p>
+    <p>In 2010, 4,455,740 males and 3,125,637 females played athletics in high school.</p>
+    <p>In the same year, 249,307 males and 186,460 females played NCAA sports.</p>
+  </div>
+  
+  <div class="National_Images" id="section10">
+   <div class="images">
+    <img src="images/blue.png">
+    <img src="images/pink.png">
+   </div>
+  </div>
+  
+  <div class="BPS_Action" id="section11">
+    <h1>BPS</h1>
+    <h2>IN</h2>
+    <h3>ACTION</h3>
+  </div>
+  
+  
+    
+  <div class="video" id=section12">
+   <div class="blankSpace">
+   
+   </div>
+   <div class="youtube">
+     <iframe width="1350" height="759" src="http://www.youtube.com/embed/RFIGGWofouk" frameborder="0" allowfullscreen></iframe>
+   </div>
+ </div>
+  
+  
+</body>
+
+
+
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>		
+        <script type="text/javascript" src="jquery.easing.1.3.js"></script>
+        <script type="text/javascript">  
+           $(function() {
+               $('ul.navigation a').bind('click',function(event){
+                  var $anchor = $(this);
+ 
+               $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top
+                }, 1500,'easeInOutExpo');
+        /*
+        if you don't want to use the easing effects:
+        $('html, body').stop().animate({
+            scrollTop: $($anchor.attr('href')).offset().top
+        }, 1000);
+        */
+        event.preventDefault();
+    });
+});
+
+/*===========================================================*/
+/*	Automatically Highlights Navigation Item
+/*===========================================================*/
+function calculateScroll() {
+var topRange = 400;
+var contentTop	 =	[];
+var contentBottom	=	[];
+var winTop	 =	$(window).scrollTop();
+//rangeTop is used for changing the class a little sooner that reaching the top of the page
+//rangeBottom is similar but used for when scrolling bottom to top
+var rangeTop	=	200;
+var rangeBottom	=	500;
+$('#navigation').find('a').each(function(){
+contentTop.push( $( $(this).attr('href') ).offset().top );
+contentBottom.push( $( $(this).attr('href') ).offset().top + $( $(this).attr('href') ).height() );
+})
+$.each( contentTop, function(i){
+if ( winTop > contentTop[i] - rangeTop && winTop < contentBottom[i] - rangeBottom ){
+$('#navigation li')
+.removeClass('current')
+.eq(i).addClass('current');
+}
+})
+}
+$(document).ready(function() {
+calculateScroll()
+$(window).scroll(function(event) {
+calculateScroll();
+});
+});
